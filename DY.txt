@@ -1,0 +1,3 @@
+vmess://ws+tls:1e726528-4f72-4973-8027-83e5b2acaaf8-0@rightjio89j9k.pages.dev:443/?path=/1e726528-4f72-4973-8027-83e5b2acaaf8-vmess&tlsServerName=rightjio89j9k.pages.dev#00
+
+vless://1e726528-4f72-4973-8027-83e5b2acaaf8@rightjio89j9k.pages.dev:443?type=ws&security=tls&path=%2F1e726528-4f72-4973-8027-83e5b2acaaf8-vless&host=rightjio89j9k.pages.dev&sni=rightjio89j9k.pages.dev&alpn=#0V
